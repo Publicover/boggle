@@ -1,0 +1,3 @@
+class Die < Array
+
+end
